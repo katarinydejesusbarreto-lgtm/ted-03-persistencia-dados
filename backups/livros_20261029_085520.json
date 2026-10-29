@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "titulo": "Vinte Mil Léguas Submarinas",
+        "autor": "Júlio Verne",
+        "genero": "Ficção Científica e aventura",
+        "ano": "1870"
+    },
+    {
+        "id": "2",
+        "titulo": "O Sobrinho do Mago",
+        "autor": "C. S. Lewis",
+        "genero": " Fantasia",
+        "ano": "1955"
+    },
+    {
+        "id": "3",
+        "titulo": "Trono de Vidro",
+        "autor": "Sarah J. Maas",
+        "genero": "Fantasia",
+        "ano": "2012"
+    },
+    {
+        "id": "4",
+        "titulo": "Viagem ao Centro da Terra",
+        "autor": "Júlio Verne",
+        "genero": "Ficção Científica e aventura",
+        "ano": "1864"
+    },
+    {
+        "id": "5",
+        "titulo": "Arrume sua Cama",
+        "autor": "William H. McRaven",
+        "genero": "Desenvolvimento pessoal",
+        "ano": "2017"
+    }
+]

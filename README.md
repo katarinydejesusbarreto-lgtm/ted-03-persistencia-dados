@@ -4,10 +4,10 @@
 
 **Instituição:** UniBalsas  
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS)  
-**Disciplina:** [Nome da disciplina]  
+**Disciplina:** Algoritmos e Programação Avançada 
 **Integrantes:**  
+- Ana Clara Ribeiro Quixabeira 
 - Katariny de Jesus Barreto
-- [Nome completo da colega]
 
 ## 2. Descrição do projeto
 
